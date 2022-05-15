@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+h1 {
+    color: aqua;
+    border-bottom: dotted aliceblue 1px;
+}
+
+body {
+    background-image: url("https://www.soccerpro.com/thecentercircle/wp-content/uploads/2015/04/Lewas.jpg");
+    font-family: 'Koulen', cursive;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
+
+article {
+    text-align: center;
+}
